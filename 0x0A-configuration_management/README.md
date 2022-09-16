@@ -24,8 +24,8 @@ Obviously writing Puppet code for your infrastructure requires an investment of 
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/292/4i8il3B.gif)
 
-That was me ^_^': [https://twitter.com/devopsreact/status/836971570136375296](https://alx-intranet.hbtn.io/rltoken/jIyF-Oa80s40ssG21cyNAg "https://twitter.com/devopsreact/status/836971570136375296")
-
+That  was me ^_^': [https://twitter.com/devopsreact/status/836971570136375296](https://alx-intranet.hbtn.io/rltoken/jIyF-Oa80s40ssG21cyNAg "https://twitter.com/devopsreact/status/836971570136375296")
+    
 Resources
 ---------
 
